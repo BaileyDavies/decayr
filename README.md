@@ -1,0 +1,2 @@
+# decayr
+Golang decay functions
